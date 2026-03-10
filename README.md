@@ -1,5 +1,5 @@
  <h1 align="center">Hi, I'm Shagun 🌷</h1>
-<h3 align="center">Engineering Student • Exploring Product Thinking • Curious Builder</h3>
+<h3 align="center">Engineering Student • Exploring Product Thinking • Learning Product Management</h3>
 
 ---
 
@@ -75,8 +75,8 @@ This GitHub is a small journal of my **learning journey, experiments, and ideas.
 
 ## 📬 Connect With Me
 
-LinkedIn: *(add your link here)*  
-Email: *(add your email here)*  
+LinkedIn: *www.linkedin.com/in/shagun-sinha*  
+Email: *shagunsinha3@gmail.com*  
 
 ---
 
