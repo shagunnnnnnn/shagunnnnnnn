@@ -1,86 +1,119 @@
- <h1 align="center">Hi, I'm Shagun 🌷</h1>
-<h3 align="center">Engineering Student • Exploring Product Thinking • Learning Product Management</h3>
+<h1 align="center">Hi, I'm Shagun 🌷</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Engineering+Student;Exploring+Product+Thinking;Moving+towards+Product+Management;Learning+to+Build+Thoughtful+Products&center=true&width=500&height=45">
+</p>
 
 ---
 
 ## 🌼 About Me
 
-I’m a third-year engineering student currently exploring the world of **Product Management, product thinking, and user-centered design**.
+I'm a **third-year engineering student** currently exploring the world of **Product Thinking, Product Management, and user-centered technology**.
 
-Right now, I’m focused on understanding how thoughtful products are built — from **problem discovery and analysis to designing meaningful user experiences**.
+Rather than just building software, I'm deeply curious about **why people use products, how they behave while using them, and what makes a product truly meaningful.**
 
-My journey includes building small projects, writing **product case studies**, and experimenting with **data and technology to understand users better**.
+My learning journey involves:
 
-I strongly believe that good products sit at the intersection of:
+✨ Studying **product thinking and product strategy**  
+✨ Building **case studies with UI prototypes**  
+✨ Exploring **data, psychology, and technology together**  
+✨ Strengthening my **technical foundations**
 
-✨ Human psychology  
-✨ Clear problem solving  
-✨ Thoughtful design  
-✨ Technology that enables impact  
+I believe the best products exist at the intersection of:
+
+> **Human psychology × thoughtful design × technology**
 
 ---
 
-## 🌱 What I'm Currently Working On
+## 🌱 Currently Learning
 
-• Learning **Product Thinking & Product Management fundamentals**  
-• Building **product case studies with UI prototypes**  
-• Strengthening my **Python and SQL** skills  
-• Beginning my journey into **HTML, CSS, and JavaScript**  
-• Understanding how **technology and psychology influence user behavior**
+📚 Product Thinking & Product Management  
+🐍 Python for analysis and experimentation  
+🗄 SQL for data exploration  
+🌐 HTML, CSS & JavaScript (beginner journey)  
+🧠 Understanding **user behavior and decision-making**
 
 ---
 
 ## 🚀 Projects
 
 ### 🧠 AI Psychology Game
-A concept project exploring how **gameplay decisions can reveal behavioral patterns and personality insights** using AI-driven analysis.
+An experimental concept where gameplay decisions are used to generate **AI-based personality insights**.
 
-### 📊 Crime Data Analysis (Collaborative Project)
-An analytical project focused on identifying **patterns and insights within crime datasets** using Python and SQL.
+Focus areas:
+- Behavioral decision making
+- AI-generated psychological reports
+- Interactive user experience
+
+---
+
+### 📊 Crime Data Analysis *(Collaborative Project)*
+Exploring real-world datasets to uncover **patterns, correlations, and insights in crime data** using Python and SQL.
+
+---
 
 ### 🔍 Facial Recognition Performance Analysis
-A research-based project analyzing **accuracy changes in facial recognition systems under different conditions and datasets**.
+A research-based project analyzing **how accuracy of facial recognition systems changes across different conditions such as resolution, dataset size, and grayscale inputs.**
 
 ---
 
 ## 🛠 Tools & Technologies
-Python
-SQL
-VS Code
-Git & GitHub
-UI Prototyping Tools
 
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI%20Prototyping-FFB6C1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Product%20Thinking-F4A6C1?style=for-the-badge"/>
+</p>
 
-*(Currently expanding this list as I learn more technologies.)*
+*(More technologies will be added as I continue learning.)*
 
 ---
 
 ## 🧠 Interests
 
-• Product thinking  
-• Human psychology in technology  
-• Public speaking  
-• Philosophy and deep conversations  
-• Learning new ideas and skills constantly  
+🎤 Public speaking  
+📖 Philosophy & deep thinking  
+🧩 Understanding human behavior  
+🌍 Learning new ideas across different fields  
 
 ---
 
 ## 🌸 Current Goal
 
-To grow into someone who can **build thoughtful, meaningful products that genuinely solve problems and improve people's experiences.**
+To grow into someone who can **build thoughtful, human-centered products that solve real problems.**
 
-This GitHub is a small journal of my **learning journey, experiments, and ideas.**
+This GitHub is a small record of my:
+
+🌱 learning journey  
+🧪 experiments  
+💡 ideas  
 
 ---
 
-## 📬 Connect With Me
+## 📊 GitHub Stats
 
-LinkedIn: *www.linkedin.com/in/shagun-sinha*  
-Email: *shagunsinha3@gmail.com*  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shagunnnnnnn&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shagunnnnnnn&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌷 Connect With Me
+
+💼 LinkedIn: **www.linkedin.com/in/shagun-sinha**  
+📧 Email: **Shagunsinha3@gmail.com**  
 
 ---
 
 <p align="center">
-✨ Always curious. Always learning. ✨
-</p>
+  
+✨ *Curious mind. Thoughtful builder. Always learning.* ✨
 
+</p>
