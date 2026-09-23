@@ -8,7 +8,7 @@
 
 ## 🌼 About Me
 
-I'm a **third-year engineering student** currently exploring the world of **Product Thinking, Product Management, and user-centered technology**.
+I'm a **Final-year engineering student** currently exploring the world of **Product Thinking, Product Management, and user-centered technology**.
 
 Rather than just building software, I'm deeply curious about **why people use products, how they behave while using them, and what makes a product truly meaningful.**
 
